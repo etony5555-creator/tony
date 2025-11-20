@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Tony Tax Manager",
+  "description": "Your personal Ethiopian tax accountant and financial manager. Manage tax reporting, multi-tenant profiles, and receipts with AI tailored for Ethiopian bureaucracy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
